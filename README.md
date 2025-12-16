@@ -10,13 +10,13 @@ This project is a **full-stack e-commerce web application** designed to provide 
 </p>
 
 <p align="center">
-  <img src="E-commerce%20website%20pictures/3.jpg" width="49%"/>
   <img src="E-commerce%20website%20pictures/4.jpg" width="49%"/>
+  <img src="E-commerce%20website%20pictures/5.jpg" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="E-commerce%20website%20pictures/5.jpg" width="49%"/>
   <img src="E-commerce%20website%20pictures/6.jpg" width="49%"/>
+  <img src="E-commerce%20website%20pictures/3.jpg" width="49%"/>
 </p>
 
 
